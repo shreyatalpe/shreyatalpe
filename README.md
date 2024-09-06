@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Codings I Know</h2>
 
-- <b>Python and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting Pythong & Algos in Python]
+- <b>C++ and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting C++ & Algos in Python]
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
